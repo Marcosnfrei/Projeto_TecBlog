@@ -1,3 +1,3 @@
 # Projeto_TecBlog
 
-Acesse:  https://marcosnfrei.github.io/Projeto_TecBlog/
+Acesse:  https://marcosfreiberger.github.io/Projeto_TecBlog/
